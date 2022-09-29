@@ -1,0 +1,16 @@
+{
+    "name": "yarielg/wr_easy_checkout",
+    "autoload": {
+        "psr-4": {
+            "Wrech\\Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yarielg",
+            "email": "yariel.gordillo@gmail.com"
+        }
+    ],
+    "require": {}
+
+}
